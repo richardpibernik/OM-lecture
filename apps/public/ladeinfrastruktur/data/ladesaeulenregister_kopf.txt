@@ -1,0 +1,14 @@
+Ladesäulenregister Bundesnetzagentur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Hinweis: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+zum Zeitpunkt der Aktualisierung vollständig abgeschlossen haben. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in Deutschland ist daher größer als hier dargestellt. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Letzte Aktualisierung vom: 01.09.2026;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Allgemeine Informationen;;;;;;;;;;;;;;;;;;;;;;;1. Ladepunkt;;;;2. Ladepunkt;;;;3. Ladepunkt;;;;4. Ladepunkt;;;;5. Ladepunkt;;;;6. Ladepunkt;;;
+Ladeeinrichtungs-ID;Betreiber;Anzeigename (Karte);Status;Art der Ladeeinrichtung;Anzahl Ladepunkte;Nennleistung Ladeeinrichtung [kW];Inbetriebnahmedatum;Straße;
+1010338;Albwerk Elektro- und Kommunikationstechnik GmbH;Albwerk Elektro- und Kommunikationstechnik GmbH;In Betrieb;Normalladeeinrichtung;2;22;11.01.2020;Am Berg
+1063962;smopi® - Multi Chargepoint Solution GmbH;smopi;In Betrieb;Normalladeeinrichtung;4;22;23.11.2022;Albstraße;15;;72535;Heroldstatt;Landkreis Alb-Donau-Krei
+1063963;smopi® - Multi Chargepoint Solution GmbH;smopi;In Betrieb;Normalladeeinrichtung;4;22;23.11.2022;Albstraße;15;;72535;Heroldstatt;Landkreis Alb-Donau-Krei
